@@ -11,7 +11,8 @@ The objective of this project is to understand spending patterns, identify high-
 ## Tools Used
 
 - Power BI
-- Excel
+- Power Query
+- DAX
 
 ## Data Preparation
 
